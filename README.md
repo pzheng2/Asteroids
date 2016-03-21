@@ -1,5 +1,9 @@
 # Asteroids
 
+[demo][heroku]
+
+[heroku]: http://www.peterzzheng.com/Asteroids/
+
 Basic Asteroids game written with Javascript
 
 Controls:
